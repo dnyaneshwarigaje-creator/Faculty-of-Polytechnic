@@ -1,1 +1,12 @@
-
+# problem2
+a=4
+b=9
+c=19
+def number (n):
+if n % 2==0:
+print("even")
+else:
+print("odd")
+Number(a)
+number(b)
+number(c)
