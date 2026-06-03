@@ -34,3 +34,12 @@ def print_list(list):
     for x in list:
         print(x)
 print_list(a)
+#problem 5
+i=1
+L=[1,2,3,4,5,6]
+L.pop(0)
+L.pop(1)
+L.pop(2)
+print(L)
+ 
+
