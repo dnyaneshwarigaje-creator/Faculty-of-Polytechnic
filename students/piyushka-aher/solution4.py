@@ -21,3 +21,10 @@ while True:
         print("incorrect")
     else:
         print("correct")
+#problem 4
+n=5
+student=[]
+for x in range(n):
+    name=input("Enter your name=")
+    student.append(name)
+    print(student)
